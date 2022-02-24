@@ -253,8 +253,11 @@ create table Carrito_detalle(
 
 ## Se crea el Script con las tablas definidas en el modelo y se ejecuta
 
+
+
 ## Como podemos ver en la consola de data grip se crearon todas las tablas 
 
+![Untitled (5)](https://user-images.githubusercontent.com/71273441/155453189-a773340a-1212-4aaf-82ba-a587676732ae.png)
 
 
 ## En postgres ya aparecen las 20 tablas que creamos ✅
