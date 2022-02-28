@@ -262,6 +262,9 @@ create table Carrito_detalle(
 
 ## En postgres ya aparecen las 20 tablas que creamos ✅
 
+## Link video 📺
+https://youtu.be/zVTAWtdQaR0
+
 
 ## Integrantes 👧🏻🦸‍♂️👨‍🚀
 * Paula Andrea Anaya Ramirez 
